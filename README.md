@@ -1,3 +1,13 @@
+# GitHub Job Listings
+
+- This Project was built with React Hooks.
+
+## What I learned
+
+- Applying pagination and how to navigate through them.
+- Used React Bootstrap for the styling of the containers and cards.
+- Using the search bar description and location to search for job.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
